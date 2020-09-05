@@ -1,0 +1,6 @@
+{
+    "name" : "My Express Production Application",
+    "sms" : {
+        "service" : "Nexmo"
+    }
+}
